@@ -8,10 +8,11 @@ Batch No: 05.01
 Topic: Recruitment Company System
 
 *******************************************************************************
-Group Member Details:
+# Group Member Details:
 
 Member ID: IT21279966
 Member Name: Gunawardana S. D. L.
+
 Implemented Functions: 
     Home.html
     Home - afterLog.html
@@ -36,6 +37,7 @@ Implemented Functions:
 
 Member ID: IT21280160
 Member Name: Theekshana K. T.
+
 Implemented Functions:
     payment.html
     paysucc.html
@@ -51,6 +53,7 @@ Implemented Functions:
 
 Member ID: IT21282836
 Member Name: Mallawaarachchi T. D. R.
+
 Implemented Functions:
     contactUs.html
     findJob.html
@@ -65,6 +68,7 @@ Implemented Functions:
     
 Member ID: IT21282904
 Member Name: Halawathage T. I. P.
+
 Implemented Functions:
     job_seeker_form.php
     job_sekerfm.php
